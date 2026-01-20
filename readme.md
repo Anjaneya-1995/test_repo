@@ -13,5 +13,3 @@ Robustness	Tests resilience to variations like typos, accents, or adversarial in
 Efficiency	Evaluates speed, cost, and resource use.	Optimizes for production scalability.	Measuring latency in responses or token cost per query; e.g., comparing models on throughput.
 Context Handling	Assesses multi-turn conversations or long-context retention.	Vital for agents or chatbots.	Evaluating session coherence: "Does the model remember prior context in a 10-turn dialogue?"
 Creativity/Originality	Gauges novelty in generative tasks.	Useful for content creation.	Scoring uniqueness in poem generation against plagiarism checks.
- 
- 
